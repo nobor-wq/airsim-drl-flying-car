@@ -7,10 +7,8 @@
 
 ## 1. 项目简介（Introduction）
 
-本项目旨在构建一个面向飞行汽车（Flying Car / eVTOL）的强化学习训练与评估平台.
-
-仿真基于 AirSim 提供的高保真动力学模型，
-训练算法采用 Stable-Baselines3 中的 SAC 方法。
+本项目旨在构建一个面向飞行汽车（Flying Car / eVTOL）的强化学习训练与评估平台。
+仿真基于 AirSim 提供的高保真动力学模型。
 
 ---
 
